@@ -30,6 +30,8 @@ SteamData.ini放在程序所在目录，注意是ANSI编码。
 
 双击即可登录对应账号。
 
+![image-20220605174759408](http://image.iyzyi.com/img/202206051748716.png)
+
 ## TODO
 
 * 密码需要加密存储
